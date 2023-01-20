@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1>React-Native-PopUp-Model</h1> 
+    <h1>React-Native-PopUP-Model</h1> 
     <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
           <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
     </a>   
@@ -17,4 +17,4 @@
 I was wondering how can we create popup using the react-native after the search i found the lib called
 <a href="https://www.npmjs.com/package/react-native-popup-menu">react-native-popup-menu </a>but this lib is so complicated its really confusing for me.
 
-I thought why not to create popup using the Model. Using the Model found what I want<br> React native has inbuild component called Model using the model we can achive the thing in a simple way.
+I thought why not to create popup using the Model. Using the Model found what I want<br> React native has in-build component called Model using the model we can achive the thing in a simple way.
